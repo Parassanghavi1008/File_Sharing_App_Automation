@@ -95,6 +95,13 @@ Below are the essential testing documents for this File Sharing App:
 -  [Test Plan](https://docs.google.com/document/d/14J8rbx-NALKWZfCUsNO3j-fR80JQRdFdZgMq71-E-e0/edit?usp=sharing)  
   A detailed outline of the testing strategy, scope, and timeline.
 
+## Mind Map
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1TOlQ3y5zaXFjmW8oU2ZPBgURi-SF6nJU" alt="Workwise Mindmap" width="1050">
+</p>
+
+
 -  [Test Scenarios & Test Cases](https://docs.google.com/spreadsheets/d/1pP85OjHiMGitp1bbHz08NvT6Y63g1V3E4obWWdzbxAA/edit?usp=sharing)  
   Comprehensive list of test cases with inputs, expected results, and status.
 
