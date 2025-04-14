@@ -33,7 +33,7 @@ This test plan outlines the manual and automation testing strategy to validate t
 
 
 
-## 🚀 Features
+## Features
 
 - Login / Signup User Account  
 - File Upload  
