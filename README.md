@@ -73,15 +73,29 @@ This test plan outlines the manual and automation testing strategy to validate t
 ---
 
 ## Directory Structure of automation testing files
-src/main/java
-├── pages/
-├── test/java   
-├── src/main/java/pageObject/Signup
-├── src/main/java/pageObject/Login
-├── src/main/java/pageObject/FileUpload
-├── src/test/java/functionalTest/SignupTest
-├── src/test/java/functionalTest/LoginTest
-├── src/test/java/functionalTest/FileUploadTest
+
+FileSharingApp/
+├── .idea/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── pageObject/
+│   │           ├── FileUpload.java
+│   │           ├── Login.java
+│   │           └── Signup.java
+│   └── test/
+│       └── java/
+│           └── functionalTest/
+│               ├── FileUploadTest.java
+│               ├── LoginTest.java
+│               └── SignupTest.java
+├── target/
+├── .gitignore
+├── pom.xml
+├── testng.xml
+├── External Libraries/
+└── Scratches and Consoles/
+
 
 
 ## Application Under Test 
