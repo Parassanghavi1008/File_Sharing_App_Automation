@@ -74,6 +74,8 @@ This test plan outlines the manual and automation testing strategy to validate t
 
 ## Directory Structure of automation testing files
 
+```
+
 FileSharingApp/
 ├── .idea/
 ├── src/
@@ -96,7 +98,7 @@ FileSharingApp/
 ├── External Libraries/
 └── Scratches and Consoles/
 
-
+```
 
 ## Application Under Test 
 
