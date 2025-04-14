@@ -55,7 +55,7 @@ This test plan outlines the manual and automation testing strategy to validate t
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" />
 <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white&style=flat" />
 
-### 🔧 Version Control & Testing Tools
+### Version Control & Testing Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
@@ -66,7 +66,7 @@ This test plan outlines the manual and automation testing strategy to validate t
 
 <img src="https://img.shields.io/badge/POM%20Framework-White?style=flat&logo=java&logoColor=white" alt="POM Framework Badge">
 
-### 🖥️ Operating Systems & Browsers
+### Operating Systems & Browsers
 
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=flat)
 
@@ -104,7 +104,7 @@ FileSharingApp/
 
 AUT URL: [File Sharing App](https://file-sharing-application.netlify.app/login)
 
-## 📄 Testing Documents
+## Testing Documents
 
 Below are the essential testing documents for this File Sharing App:
 
